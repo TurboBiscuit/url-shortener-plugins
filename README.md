@@ -1,5 +1,7 @@
 # url-shortener-plugins
 
+## Dont see a url shortener you want? Make an issue! (Someone might make it!) If you want to add your own make a PR!
+
 Plugin Without Custom Codes
 
 ```js
